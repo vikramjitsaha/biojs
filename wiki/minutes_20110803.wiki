@@ -3,7 +3,7 @@
 Link to the presentation
   * https://docs.google.com/present/edit?id=0AQ_p-HKWUjHoZGQ5cGNtcmhfMjlodHQ0dHFncg&hl=en_US
 
-Link to the project summary
+Link to the project summary proposal
   *  https://docs.google.com/document/d/1EEPEBPQlllLFTTc7VpP4JOODxQcROsjRRcMShrMAAtQ/edit?hl=en_US
 
 Start the project with simple examples
