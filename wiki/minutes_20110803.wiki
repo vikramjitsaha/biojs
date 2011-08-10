@@ -1,4 +1,4 @@
-Meeting: Graphical library to represent biological information
+===Meeting: Graphical library to represent biological information===
 
 Link to the presentation
   * https://docs.google.com/present/edit?id=0AQ_p-HKWUjHoZGQ5cGNtcmhfMjlodHQ0dHFncg&hl=en_US
