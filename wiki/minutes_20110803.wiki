@@ -36,4 +36,7 @@ Set up communication infrastructure
   * Wiki
   * Mailing list
 
-Include John in the External services mailing list.
+Other ideas discussed to take into account in the future
+  * Have a SOA architecture (Registry of plug-ins, plug-ins as services, web application using plug-ins)
+
+Include John in the EBI External services mailing list.
