@@ -1,3 +1,4 @@
+#summary Meeting with usability expert
 =Meeting=
   * Date: 2011-08-04
   * Attendees: John Gomez, Sangya Pundir
