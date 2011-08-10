@@ -10,11 +10,11 @@ Main idea is starting with a simplest component, collecting its requirements acr
 Before spend time on implementation issues, build a prototype (a mock-up) in order to get feedback, dislikes, improves, etc. Then, refine the specification document and the prototype until a successfully version of component. At this stage, the implementation could be started. 
 
   * Guidelines to start the construction of a simple component: DNA Sequence. The Sangya’s recommendation is to follow the steps:
-Collect the requirements or features that must be supported by the component. Ask for a group [leader or in charge] person who can be helpful to tell us what is the expected functionality. (Rafael knows who are the indicated for each group).
-Write/refine the specification of the component
+  1 Collect the requirements or features that must be supported by the component. Ask for a group [leader or in charge] person who can be helpful to tell us what is the expected functionality. (Rafael knows who are the indicated for each group).
+  2 Write/refine the specification of the component
 Construct a mock-up in order to show a prototype version to the user (it must be a drawing on paper, powerpoint, paint, etc.). The aim is to show the expected functionality.
-Get feedback from the user. If the prototype does not satisfy the expected functionality. Go to step 2
-Implement in the programming language 
+  3 Get feedback from the user. If the prototype does not satisfy the expected functionality. Go to step 2
+  4 Implement in the programming language 
 
 
   * The idea is to do a quick cycle for one component and see how it worked, see the problems as well and then do that for the other ones. 
