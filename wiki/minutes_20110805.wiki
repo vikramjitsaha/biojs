@@ -1,4 +1,9 @@
-===Meeting: Sangya Pundir===
+=Meeting=
+  * Date: 2011-08-04
+  * Attendees: John Gomez, Sangya Pundir
+  * Absence: Rafael C. Jimenez
+
+==Minutes==
 
 Main idea is starting with a simplest component, collecting its requirements across involved groups, asking group leaders or some person in charge (Rafael can help us to figure out the plan of meetings). 
 
