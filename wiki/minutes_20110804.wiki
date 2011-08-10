@@ -1,4 +1,4 @@
-#Minutes 20110804.
+#summary Minutes 20110804
 =Meeting=
   * Date: 2011-08-03
   * Attendees: John Gomez, Jose M. Villaveces, Gustavo A. Salazar, Rafael Jimenez
