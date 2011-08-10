@@ -4,8 +4,7 @@
 
 == Documents ==
   *  [https://docs.google.com/document/d/1EEPEBPQlllLFTTc7VpP4JOODxQcROsjRRcMShrMAAtQ/edit?hl=en_US Proposal]
-  * [https://docs.google.com/present/edit?id=0AQ_p-HKWUjHoZGQ5cGNtcmhfMjlodHQ0dHFncg&hl=en
-_US Presentation]
+  * [https://docs.google.com/present/edit?id=0AQ_p-HKWUjHoZGQ5cGNtcmhfMjlodHQ0dHFncg&hl=en_US Presentation]
 
 
 ==Minutes==
