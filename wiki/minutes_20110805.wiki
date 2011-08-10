@@ -16,7 +16,6 @@ Guidelines to start the construction of a simple component: DNA Sequence. The Sa
   4 Get feedback from the user. If the prototype does not satisfy the expected functionality. Go to step 2
   5 Implement in the programming language 
 
-
   * The idea is to do a quick cycle for one component and see how it worked, see the problems as well and then do that for the other ones. 
 
 Sangya introduced John to Jennifer Cham, the users experience analyst at External Services team.
