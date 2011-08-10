@@ -10,3 +10,5 @@ Allow plug-ins to use different libraries (jquery, yui, etc.)
 Check how to handle events that can be understood by different libraries (jquery, yui, etc.)
 
 Think about the possibility of creating a API for events and define a predefined list of events
+
+Take into account the registry when developing the plug-ins and the specification
