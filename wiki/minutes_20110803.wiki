@@ -18,7 +18,7 @@ Start the project with simple examples
   * Improve specification
   * Improve plug-in
 
-Try to get a prof of concept
+Try to get a proof of concept
 
 Proposed plug-ins to start with
   * Sequence
