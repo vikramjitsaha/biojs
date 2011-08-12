@@ -1,4 +1,4 @@
-#summary state of the art
+#summary State of the art
 #labels Documentation
 
 =Related Work=
@@ -24,4 +24,3 @@ http://www.cytoscape.org/images/intro_14.png
 
 A screenshot of Cytoscape
 source: http://www.cytoscape.org/what_is_cytoscape.html
-
