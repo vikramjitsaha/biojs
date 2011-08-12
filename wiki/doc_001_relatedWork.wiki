@@ -1,4 +1,6 @@
+#summary state of the art
 #labels Documentation
+
 =Related Work=
 
 *jBio*: is a JavaScript library proposed by the Rost Lab at Technische Universität München. Their proposal is underlined by the use of methodologies such as object-oriented programming with inheritance and polymorphism, asynchronous JavaScript + XML (AJAX), and jQuery, a leading JavaScript library that facilitates rapid development. Hence, by using jBio developers can rapidly design and deploy true web 2.0 applications. https://www.rostlab.org/owiki/index.php/JBio
@@ -22,6 +24,4 @@ http://www.cytoscape.org/images/intro_14.png
 
 A screenshot of Cytoscape
 source: http://www.cytoscape.org/what_is_cytoscape.html
-
-
 
