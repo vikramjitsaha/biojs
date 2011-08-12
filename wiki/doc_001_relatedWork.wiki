@@ -24,3 +24,5 @@ http://www.cytoscape.org/images/intro_14.png
 
 A screenshot of Cytoscape
 source: http://www.cytoscape.org/what_is_cytoscape.html
+
+*Other*: there are some examples of fully functional biological components at http://www.ebi.ac.uk/~jvillave/BioWidgets/samples/samples.html for DNA sequences and ontology trees. It was developed using plug-ins in jQuery. The problem here is the lack of documentation in order to reuse or extend the code.
