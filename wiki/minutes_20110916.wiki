@@ -7,11 +7,14 @@
 ==Minutes==
 
 Add method for highlighting by means string matching
+
 Add manual controls:
  * Number of amino-acids by row
  * Separate the sequence each X amino-acids 
 
 Review the tools jalView and Clustal 
+
 Ask Roi (PRIDE team) about viewer he did
-Enhancements:
+
+Possible enhancements:
  * take in account the posttranslational modifications (PTM)
