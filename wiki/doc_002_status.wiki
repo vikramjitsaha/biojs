@@ -1,7 +1,7 @@
 #summary Report of results from the first stage.
 #labels Documentation
 
-= Introduction =
+= Report =
 
 The proposed first stage, in which was focused on the sequence component, has finished. Sangya's recommendations has served like a base line for the development process. The following steps describes the results obtained: 
 
