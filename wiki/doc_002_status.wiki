@@ -1,5 +1,5 @@
 #labels Documentation
-#report of results in the first stage.
+#sumary Report of results from the first stage.
 
 = Introduction =
 
