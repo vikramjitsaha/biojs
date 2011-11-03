@@ -1,0 +1,8 @@
+#summary Meetings
+
+=Meetings=
+|| *Date* || *Time* || *Report* || *Via* ||
+|| 2011-08-05 || 14:00 UK || [minutes_20110805] || EBI ||
+|| 2011-08-04 || 10:00 UK || [minutes_20110804] || skype ||
+|| 2011-08-03 || 15:00 UK || [minutes_20110803] || EBI A2-57 ||
+|| 2011-09-16 || 10:00 UK || [minutes_20110916] || EBI ||
