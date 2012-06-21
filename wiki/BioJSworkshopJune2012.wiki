@@ -6,7 +6,7 @@
 = Attendees =
 We had some people at the EBI interested to learn more about BioJS, so we decided to organize a mini-workshop to show people how to use/develop BioJS components and get some feedback to improve the library. At the end we got 2 people from TGCA, 5 from the Sanger institute and 28 people from EBI.
 
-Anil Thanki - TGCA
+Anil Thanki - TGCA <br/>
 Xingdong Bian - TGCA
 Eugene Bragin - Sanger
 Dushyanth Jyothi - Sanger
