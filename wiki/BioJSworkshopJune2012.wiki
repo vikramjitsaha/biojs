@@ -6,43 +6,41 @@
 = Attendees =
 We had some people at the EBI interested to learn more about BioJS, so we decided to organize a mini-workshop to show people how to use/develop BioJS components and get some feedback to improve the library. At the end we got 2 people from TGCA, 5 from the Sanger institute and 28 people from EBI.
 
-Anil Thanki - TGCA
-
-Xingdong Bian - TGCA
-
-Eugene Bragin - Sanger
-Dushyanth Jyothi - Sanger
-Fabian Schreiber - Sanger
-Frank Schwach - Sanger 
-Nick - Sanger
-Leyla J Garcia- EBI
-John Gomez- EBI
-Rafael C Jimenez - EBI
-Shaun - EBI
-Antonio Fabregat - EBI
-Mihai Glonț - EBI
-Stathis Kanterakis - EBI
-John May - EBI
-Laurent Gil - EBI
-Venkatesh Muthukrishnan - EBI
-Swanand - EBI
-Francis Rowland - EBI
-Joseph Rossetto - EBI
-Alan Da Silva - EBI
-Mahmut Uludag - EBI
-Peter Walter - EBI
-Marine - EBI
-Noemi del Toro - EBI
-Rui Wang - EBI
-Samuel Croset - EBI
-Rodrigo Ochoa - EBI
-Nicolas Rodriguez - EBI
-Glen van Ginkel - EBI
-Jonathan warren - EBI
-Robert Petryszak - EBI
-Vladimir Volynkin - EBI
-Eduardo - EBI
-Florian Reisinger - EBI
+  * Anil Thanki - TGCA
+  * Xingdong Bian - TGCA
+  * Eugene Bragin - Sanger
+  * Dushyanth Jyothi - Sanger
+  * Fabian Schreiber - Sanger
+  * Frank Schwach - Sanger 
+  * Nick - Sanger
+  * Leyla J Garcia- EBI
+  * John Gomez- EBI
+  * Rafael C Jimenez - EBI
+  * Shaun - EBI
+  * Antonio Fabregat - EBI
+  * Mihai Glonț - EBI
+  * Stathis Kanterakis - EBI
+  * John May - EBI
+  * Laurent Gil - EBI
+  * Venkatesh Muthukrishnan - EBI
+  * Swanand - EBI
+  * Francis Rowland - EBI
+  * Joseph Rossetto - EBI
+  * Alan Da Silva - EBI
+  * Mahmut Uludag - EBI
+  * Peter Walter - EBI
+  * Marine - EBI
+  * Noemi del Toro - EBI
+  * Rui Wang - EBI
+  * Samuel Croset - EBI
+  * Rodrigo Ochoa - EBI
+  * Nicolas Rodriguez - EBI
+  * Glen van Ginkel - EBI
+  * Jonathan warren - EBI
+  * Robert Petryszak - EBI
+  * Vladimir Volynkin - EBI
+  * Eduardo - EBI
+  * Florian Reisinger - EBI
 
 = Agenda =
 10:00 - 10:30, Introduction to the BioJS project
