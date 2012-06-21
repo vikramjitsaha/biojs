@@ -58,11 +58,11 @@ We had some people at the EBI interested to learn more about BioJS, so we decide
   * [http://www.ebi.ac.uk/~rafael/talks/2012-06-10_biojs_workshop/BiojsLinks.html Examples and list of links presented in the live demo]
 
 =Feedback=
- - To have a registry where people can show their interest to use or develop a component
- - To allow feedback and comments for components in the registry page
- - Check how to include unit testing for components
- - Add a FAQ secction. One general about BIoJS and other one per component
- - If available a component in the resgistry should hava a link to the requirements
+  * To have a registry where people can show their interest to use or develop a component
+  * To allow feedback and comments for components in the registry page
+  * Check how to include unit testing for components
+  * Add a FAQ secction. One general about BIoJS and other one per component
+  * If available a component in the resgistry should hava a link to the requirements
 
 
 =Component ideas=
