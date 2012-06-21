@@ -43,12 +43,12 @@ We had some people at the EBI interested to learn more about BioJS, so we decide
   * Florian Reisinger - EBI
 
 = Agenda =
-10:00 - 10:30, Introduction to the BioJS project
-10:30 - 11:00, How to use BioJS components and the registry
-11:00 - 12:00, Tutorial of how to develop a BioJS component
-12:00 - 13:00, Lunch break
-13:00 - 13:30, Brainstorming and short presentations of ideas
-13:30 - 17:00, Helping you to develop a BioJS component
+  * 10:00 - 10:30, Introduction to the BioJS project
+  * 10:30 - 11:00, How to use BioJS components and the registry
+  * 11:00 - 12:00, Tutorial of how to develop a BioJS component
+  * 12:00 - 13:00, Lunch break
+  * 13:00 - 13:30, Brainstorming and short presentations of ideas
+  * 13:30 - 17:00, Helping you to develop a BioJS component
 
 = Presentation =
   * [http://www.flickr.com/photos/francisrowland/7407095724/sizes/o/in/set-72157630205678288/ Francis' sketchnote summarizing the BioJS presentation]
