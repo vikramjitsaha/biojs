@@ -52,8 +52,9 @@ We had some people at the EBI interested to learn more about BioJS, so we decide
 
 = Presentation =
   * [http://www.flickr.com/photos/francisrowland/7407095724/sizes/o/in/set-72157630205678288/ Francis' sketchnote summarizing the BioJS presentation]
-  * [http://www.ebi.ac.uk/~rafael/talks/2012-06-10_biojs_workshop/biojs_rjimenez.pdf PDF - Introduction to the BioJS project]
-  * [http://www.ebi.ac.uk/~rafael/talks/2012-06-10_biojs_workshop/biojs_rjimenez.pptx PPTX - Introduction to the BioJS project]
+  * Introduction to the BioJS project
+     * [http://www.ebi.ac.uk/~rafael/talks/2012-06-10_biojs_workshop/biojs_rjimenez.pdf PDF]
+     * [http://www.ebi.ac.uk/~rafael/talks/2012-06-10_biojs_workshop/biojs_rjimenez.pptx PPTX]
   * [http://www.ebi.ac.uk/~rafael/talks/2012-06-10_biojs_workshop/BiojsLinks.html Examples and list of links presented in the live demo]
 
 =Feedback=
