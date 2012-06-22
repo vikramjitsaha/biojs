@@ -1,12 +1,7 @@
 #summary BioJS tutorials
 
-== Tutorial 1 ==
-[https://docs.google.com/document/d/1oS4M0EKAMre4IDERV61VVTDXJH9F-HGbHxKwNXqjWuo/edit Install the registry locally]
-
-<br>
-== Tutorial 2 ==
+  * *Tutorial 1:* [https://docs.google.com/document/d/1oS4M0EKAMre4IDERV61VVTDXJH9F-HGbHxKwNXqjWuo/edit Install the registry locally]
+  * *Tutorial 2:*
 [https://docs.google.com/document/d/1Uk4-hBT5YSGGs91FVNvZPQ15QBihivKzYusBJ2GVNn8/edit Create a hello world component]
-
-<br>
-== Tutorial 3 ==
+  * *Tutorial 3:*
 [https://docs.google.com/document/d/1HKwAr8bIqqGklAiAmDoAshzbZrIYs8Q8mbrSDHobudg/edit Document your component and integrate it in your local registry]
