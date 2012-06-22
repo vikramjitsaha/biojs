@@ -137,7 +137,11 @@ Component ideas proposed to develop during or just after the workshop:
 
 ==Sequence alignments==
   * Create a BioJS component for sequence alignments based on the TreeFam project
-  * Proposed by Fabian Schreiber (UCL)
+  * Proposed by Fabian Schreiber
+
+==Sequence alignments==
+  * Create a BioJS component for sequence alignments based on Ian Sillitoe's project
+  * Proposed by Ian Sillitoe (UCL)
 
 ==Structural viewer==
   * Create a BioJS component for structural views based on Ian Sillitoe's project
