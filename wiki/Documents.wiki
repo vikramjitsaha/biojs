@@ -11,7 +11,7 @@
 
 = Requirements =
 
-  * Template([https://docs.google.com/document/d/1LLyUK0jEc8KXAtlmUc7vX68wvR3k8AoSdkLVSKcK1M0/edit Google doc])
+  * Template ([https://docs.google.com/document/d/1LLyUK0jEc8KXAtlmUc7vX68wvR3k8AoSdkLVSKcK1M0/edit Google doc])
 
   * Sequence component ([https://docs.google.com/document/d/1e4FVZaxnjKPjnbokyEEcL7zHF7q3B5t8M6GYwlSzX2c/edit Google doc])
 
@@ -34,6 +34,6 @@
 
 =Presentations=
 
-ISMB Talk - July 2012 ([http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pptx PPT], [http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pdf PDF])
+  * ISMB Talk - July 2012 ([http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pptx PPT], [http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pdf PDF])
 
-BioJS Sketchnote by Francis Rowland ([http://www.flickr.com/photos/francisrowland/7407095724/sizes/o/in/set-72157630205678288/ Flick])
+  * BioJS Sketchnote by Francis Rowland ([http://www.flickr.com/photos/francisrowland/7407095724/sizes/o/in/set-72157630205678288/ Flick])
