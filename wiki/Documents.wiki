@@ -14,7 +14,7 @@
 == Examples ==
   * Template ([https://docs.google.com/document/d/1LLyUK0jEc8KXAtlmUc7vX68wvR3k8AoSdkLVSKcK1M0/edit link])
 
-  * HelloWorld example ([https://docs.google.com/document/d/1F7oK6a2cOyec5A0SDiJPgY2DGQRUBgKdJZ6qPff6iwQ/edit link])
+  * HelloWorld ([https://docs.google.com/document/d/1F7oK6a2cOyec5A0SDiJPgY2DGQRUBgKdJZ6qPff6iwQ/edit link])
 
 == Components ==
   * Sequence ([https://docs.google.com/document/d/1e4FVZaxnjKPjnbokyEEcL7zHF7q3B5t8M6GYwlSzX2c/edit link])
