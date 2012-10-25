@@ -36,6 +36,6 @@
 
 =Presentations=
 
-  * ISMB Talk - July 2012 ([http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pptx PPT], [http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pdf PDF])
+  * ISMB Talk - July 2012 ([http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pptx ppt], [http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pdf pdf])
 
   * BioJS Sketchnote by Francis Rowland ([http://www.flickr.com/photos/francisrowland/7407095724/sizes/o/in/set-72157630205678288/ link])
