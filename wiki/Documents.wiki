@@ -1,0 +1,39 @@
+#summary BioJS documentation links.
+
+= Documentation =
+
+  * BioJS specification ([https://docs.google.com/document/d/1gG036Bvwl4i-KX5BTHddGzeE_5eospL-864BrnsAS_s/edit Google doc])
+
+  * BioJS registry versioning ([https://docs.google.com/document/d/10MTAdg_KB_awpKVXwQYjXXhq08rJf3Eu4w0ruelPN2I/edit Google doc])
+
+  * BioJS javascript API ([http://wwwdev.ebi.ac.uk/web/biojsdev/target/jsdoc/index.html Google doc])
+
+
+= Requirements =
+
+  * Template([https://docs.google.com/document/d/1LLyUK0jEc8KXAtlmUc7vX68wvR3k8AoSdkLVSKcK1M0/edit Google doc])
+
+  * Sequence component ([https://docs.google.com/document/d/1e4FVZaxnjKPjnbokyEEcL7zHF7q3B5t8M6GYwlSzX2c/edit Google doc])
+
+  * HelloWorld example component ([https://docs.google.com/document/d/1F7oK6a2cOyec5A0SDiJPgY2DGQRUBgKdJZ6qPff6iwQ/edit Google doc])
+
+  * PSICQUIC view component ([https://docs.google.com/document/d/1MuH1kSgXRYOXKqNWCDQV2hwOdSiXOvxOqf_jEaOGodw/edit Google doc])
+
+  * Interactions table component ([https://docs.google.com/document/d/1Y4QFI6INip839HVRkcgmRcLzNHbsG2NZNhhgf6NtHiQ/edit Google doc])
+
+  * Cromosome component ([http://biosual.blogspot.co.uk/2012/05/chromosome-component.html Google doc])
+
+
+=Tutorials=
+
+  * Tutorial 1: Install the registry and test components locally ([https://docs.google.com/document/d/1oS4M0EKAMre4IDERV61VVTDXJH9F-HGbHxKwNXqjWuo/edit Google doc])
+
+  * Tutorial 2: Create a hello world component ([https://docs.google.com/document/d/1Uk4-hBT5YSGGs91FVNvZPQ15QBihivKzYusBJ2GVNn8/edit Google doc])
+
+  * Tutorial 3: Document your component and integrate it in your local registry ([https://docs.google.com/document/d/1HKwAr8bIqqGklAiAmDoAshzbZrIYs8Q8mbrSDHobudg/edit Google doc])
+
+=Presentations=
+
+ISMB Talk - July 2012 ([http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pptx PPT], [http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pdf PDF])
+
+BioJS Sketchnote by Francis Rowland ([http://www.flickr.com/photos/francisrowland/7407095724/sizes/o/in/set-72157630205678288/ Flick])
