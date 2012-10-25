@@ -8,7 +8,7 @@
 
   * Registry versioning ([https://docs.google.com/document/d/10MTAdg_KB_awpKVXwQYjXXhq08rJf3Eu4w0ruelPN2I/edit link])
 
-
+<br>
 = Requirements =
 
 == Examples ==
@@ -25,7 +25,7 @@
 
   * Chromosome component ([http://biosual.blogspot.co.uk/2012/05/chromosome-component.html link])
 
-
+<br>
 =Tutorials=
 
   * Tutorial 1: Install the registry and test components locally ([https://docs.google.com/document/d/1oS4M0EKAMre4IDERV61VVTDXJH9F-HGbHxKwNXqjWuo/edit link])
@@ -34,6 +34,7 @@
 
   * Tutorial 3: Document your component and integrate it in your local registry ([https://docs.google.com/document/d/1HKwAr8bIqqGklAiAmDoAshzbZrIYs8Q8mbrSDHobudg/edit link])
 
+<br>
 =Presentations=
 
   * ISMB Talk - July 2012 ([http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pptx ppt], [http://www.ebi.ac.uk/~rafael/talks/2012-07-15_talk_ismb_biojs/biojs_rjimenez_ismb_02.pdf pdf])
