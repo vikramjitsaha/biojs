@@ -1,5 +1,7 @@
 #summary BioJS documentation links.
+<wiki:toc max_depth="1" />
 
+<br>
 = Documents =
 
   * Specification ([https://docs.google.com/document/d/1gG036Bvwl4i-KX5BTHddGzeE_5eospL-864BrnsAS_s/edit link])
