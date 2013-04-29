@@ -6,7 +6,7 @@
 
   * Specification ([https://docs.google.com/document/d/1gG036Bvwl4i-KX5BTHddGzeE_5eospL-864BrnsAS_s/edit link])
 
-  * API documentation ([http://wwwdev.ebi.ac.uk/web/biojsdev/target/jsdoc/index.html link])
+  * API documentation ([http://wwwdev.ebi.ac.uk/Tools/biojs/jsdoc/index.html link])
 
   * Registry versioning ([https://docs.google.com/document/d/10MTAdg_KB_awpKVXwQYjXXhq08rJf3Eu4w0ruelPN2I/edit link])
 
