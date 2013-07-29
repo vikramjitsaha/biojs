@@ -14,10 +14,19 @@
 <br>
 =Tutorials=
 
+_Tutorials by Leyla J Garcia and Rafael C Jimenez_
+  * [http://www.biotnet.org/training-materials/biojs Introduction to the BioBJ project]
+  * [http://www.ebi.ac.uk/Tools/biojs/tutorials/2013-06-17_biojs_workshop/usingSequenceComponentTutorial.html Using Biojs components, the Sequence Component case] ([http://www.ebi.ac.uk/Tools/biojs/tutorials/2013-06-17_biojs_workshop/usingSequenceComponentTutorial_proxyTest.html Example])
+  * [http://www.ebi.ac.uk/Tools/biojs/tutorials/2013-06-17_biojs_workshop/integratingTwoComponentsTutorial.html Integrating two components, the Sequence Component and 3D Structure case] ([http://www.ebi.ac.uk/Tools/biojs/tutorials/2013-06-17_biojs_workshop/integratingTwoComponentsTutorial_proxyTest.html Example])
+  * [http://www.ebi.ac.uk/Tools/biojs/tutorials/2013-06-17_biojs_workshop/ebiWorkshopBiojsInstall.html Install BioJS]
+  * [http://www.ebi.ac.uk/Tools/biojs/tutorials/2013-06-17_biojs_workshop/helloWorldTutorial.html Implementing a HelloWorld component]
+  * [http://www.ebi.ac.uk/Tools/biojs/tutorials/2013-06-17_biojs_workshop/codingBiojsComponent.html Developing a new BioJS component]
+  * [http://www.ebi.ac.uk/Tools/biojs/tutorials/2013-06-17_biojs_workshop/extendBiojsComponent.html Extending a BioJS component]
+
+
+_Tutorials by John Gomez_
   * Tutorial 1: Install the registry and test components locally ([https://docs.google.com/document/d/1oS4M0EKAMre4IDERV61VVTDXJH9F-HGbHxKwNXqjWuo/edit link])
-
   * Tutorial 2: Create a hello world component ([https://docs.google.com/document/d/1Uk4-hBT5YSGGs91FVNvZPQ15QBihivKzYusBJ2GVNn8/edit link])
-
   * Tutorial 3: Document your component and integrate it in your local registry ([https://docs.google.com/document/d/1HKwAr8bIqqGklAiAmDoAshzbZrIYs8Q8mbrSDHobudg/edit link])
 
 
